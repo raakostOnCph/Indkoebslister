@@ -8,11 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>IndKøbsListe</title>
+    <title>webshop</title>
 </head>
 <body>
 
-<h1> velkommen til din online indkøbsliste.</h1>
+<h1> velkommen til din webshop</h1>
 
 <br>
 <br>
